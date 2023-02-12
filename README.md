@@ -1,7 +1,7 @@
 # WHATSAPP CHATBOT
 Intigrate chat bot to your whatsaap 
 # HOW TO RUN 
-$ git clone https://github.com/harshitethic/whatsapp-chatgpt 
+$ git clone https://github.com/harshitethic/whatsapp-chatgpt <br>
 $ cd whatsapp-chatgpt
 $ npm install
 $ node index.js 
